@@ -1,2 +1,2 @@
 # ArduiTaM
-Arduino-based automatic NMR/MRI tuning and matching system
+Arduino-based NMR/MRI automatic tuning and matching system
